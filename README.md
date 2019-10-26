@@ -1,6 +1,6 @@
 # Singularity config for dgea container
 
-A [Singularity Hub](https://www.singularity-hub.org/) definition for the `metafunc workflow`.
+A [Singularity Hub](https://www.singularity-hub.org/) definition.
 
 If [Singularity](http://singularity.lbl.gov) is installed locally, the container can be build (needs root access) locally like this:
 
