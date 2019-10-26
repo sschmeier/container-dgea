@@ -1,0 +1,5 @@
+Bootstrap: docker
+From: sebio/dgea
+
+%post
+  touch /`date -u -Iseconds`
